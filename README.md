@@ -10,7 +10,7 @@ This repository is your go-to hub for all assignments, projects, and course mate
 
 - [📁 Homeworks](#-homeworks)
 - [📝 Homework Answers](#-homework-answers)
-- [💻 Practical Homeworks](#-practical-homeworks]
+- [💻 Practical Homeworks](#-practical-homeworks)
 - [💡 Projects](#-projects)
 - [🚀 Final Project](#-final-project)
 - [📄 Templates](#-Templates)
