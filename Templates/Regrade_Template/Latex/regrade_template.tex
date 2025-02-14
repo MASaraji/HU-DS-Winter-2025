@@ -1,0 +1,118 @@
+\documentclass[12pt]{article}
+
+% --- Packages ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\usepackage{listings}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{tikz}
+\usepackage{lipsum}
+\usetikzlibrary{shapes.geometric, arrows}
+\usepackage{xepersian}
+% --- Persian Setup ---
+\settextfont{Vazirmatn-Light}
+\setlatintextfont{Times New Roman}
+\reversemarginpar
+
+% --- Color Palette ---
+\definecolor{primary}{RGB}{25,55,145}
+\definecolor{secondary}{RGB}{155,89,182}
+\definecolor{accent}{RGB}{46,204,113}
+
+% --- Page Geometry ---
+\geometry{a4paper, margin=1in, headheight=15pt}
+
+% --- Title Formatting ---
+\titleformat{\section}[block]
+{\color{primary}\normalfont\LARGE\bfseries}
+{\thesection}{1em}{}
+
+\titleformat{\subsection}[block]
+{\color{secondary}\normalfont\Large\bfseries}
+{\thesubsection}{1em}{}
+
+% --- Header/Footer ---
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.5pt}
+\fancyhead[R]{\textcolor{primary}{\nouppercase{\leftmark}}}
+\fancyhead[L]{\includegraphics[height=0.8cm]{university-logo}}
+\fancyfoot[C]{\textcolor{primary}{\thepage}}
+
+% --- Code Listings ---
+\lstset{
+	language=Python,
+	basicstyle=\ttfamily\footnotesize,
+	numbers=left,
+	numberstyle=\tiny\color{gray},
+	stepnumber=1,
+	numbersep=5pt,
+	backgroundcolor=\color{white},
+	showspaces=false,
+	showstringspaces=false,
+	frame=single,
+	rulecolor=\color{lightgray},
+	breaklines=true,
+	tabsize=2,
+	captionpos=b,
+	keywordstyle=\color{secondary},
+	commentstyle=\color{gray},
+	stringstyle=\color{accent}
+}
+
+
+% --- Title Page ---
+\title{
+	\vspace*{-2cm}
+	\includegraphics[width=0.2\textwidth]{university-logo}\\
+	\vspace{1cm}
+	\textcolor{primary}{\bfseries  درخواست بررسی مجدد}\\
+	\Huge ساختمان داده و الگوریتم
+}
+\author{
+	\large
+	\textbf{سری:} \hrulefill \\
+\vspace{0.5cm}
+	\textbf{نام و نام خانوادگی:} \hrulefill \\
+	\vspace{0.5cm}
+	\textbf{شماره دانشجویی:} \hrulefill \\
+	\vspace{1cm}
+	\textcolor{primary}{\faCalendar\ تاریخ تحویل: \today}
+}
+\date{}
+
+\begin{document}
+	
+	\maketitle
+	\thispagestyle{empty}
+	
+	% --- Table of Contents ---
+	\newpage
+	\renewcommand{\contentsname}{\textcolor{primary}{فهرست مطالب}}
+	\tableofcontents
+	\newpage
+	
+	% ========================
+	% Main Content
+	% ========================
+	
+	\section{درخواست ها}
+	هر درخواست را در یک بخش بنویسید و تا حد امکان آن را با جزییات بیان کنید
+	\subsection{نمرات به درستی جمع نشده است}
+	\lipsum[1]
+	\subsection{سوال ۱}
+	\lipsum[2]
+	\subsection{سوال ۲}
+	\lipsum[3]
+
+	
+\end{document}
