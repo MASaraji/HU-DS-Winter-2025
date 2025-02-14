@@ -19,7 +19,7 @@ This repository is your go-to hub for all assignments, projects, and course mate
 
 ## 📄 Templates
 
-- [Project Report Template](Project-Template)
+- [Project Report Template](Project-Template/)
 - [Practical Homework Report Template](Practical-Homework-Template)
 - [Regrade Request Template](Regrade-Template)
 - [Final Project Report Template](Final-Project-Template)
