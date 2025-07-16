@@ -26,6 +26,13 @@ This repository is your go-to hub for all assignments, projects, and course mate
 
 ---
 
+## 🚀 Final Project
+
+- [Final Project](FinalProject/FinalProject.pdf)  
+
+---
+
+
 ## 👨‍🏫 Instructors
   
 - **Dr. Shahram Golzari** ( golzari@hormozgan.ac.ir )  
@@ -35,7 +42,19 @@ This repository is your go-to hub for all assignments, projects, and course mate
 
 ## 👩‍🏫 Teaching Assistants
 
-Our teaching assistants (TAs) are here to help in this course. Meet the team:
+Our teaching assistants (TAs) are here to help in this course. Meet the team:  
+- **Sajjad Mohammad Hoseini Zadeh** (sajjadmohammadhoseinizadeh@gmail.com)  
+- **Amir Shakibafar** (amir.shakibafar82@gmail.com)  
+- **Yasin Mohammadi** (mohammadiyasin2003@gmail.com)  
+- **Alireza Anoosheh** (alianoosheh1999@gmail.com)  
+- **Alireza Keshavarz** (alireza.keshavarz.d@gmail.com)  
+- **Helia Attar**  
+- **Fatemeh Ghorbanizadeh** (fatemeh.gs.279@gmail.com)  
+- **Mohammad Moeini** (mohammadmoeini711@gmail.com)  
+- **Donya Davoudian**
+- **Taha Abbaszadeh**
+- **Mohammad Mahdi Sohrabi**
+- **Alireza Ahmadinia**
 - **Mohammad Azim Saraji** [Head TA] (m.azim.saraji@gmail.com)
 
 ---
