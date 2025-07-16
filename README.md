@@ -29,8 +29,8 @@ This repository is your go-to hub for all assignments, projects, and course mate
 
 ## ✍ Midterms
 
-- [Midterm 1](Midterm/midterm-1.pdf)
-- [Midterm 2](Midterm/midterm-2.pdf)
+- [Midterm 1](Midterms/midterm-1.pdf)
+- [Midterm 2](Midterms/midterm-2.pdf)
 
 ---
 
