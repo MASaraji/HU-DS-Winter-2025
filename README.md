@@ -12,6 +12,7 @@ This repository is your go-to hub for all assignments, projects, and course mate
 - [📝 Homework Answers](#-homework-answers)
 - [💻 Practical Homeworks](#-practical-homeworks)
 - [💡 Projects](#-projects)
+- [✍ Midterms](#-midterms)
 - [🚀 Final Project](#-final-project)
 - [📄 Templates](#-Templates)
 
@@ -25,6 +26,14 @@ This repository is your go-to hub for all assignments, projects, and course mate
 - [Final Project Report Template](Templates/Final-Project-Template)
 
 ---
+
+## ✍ Midterms
+
+- [Midterm 1](Midterm/midterm-1.pdf)
+- [Midterm 2](Midterm/midterm-2.pdf)
+
+---
+
 
 ## 🚀 Final Project
 
